@@ -26,8 +26,20 @@
 
 ###
 
-<p align="left">I'm Jester I, Pariño from Baguio City, Philippines.<br><br>- 🔭 I’m working as a student developer on my Capstone Project utilizing the Laravel framework.<br>- 📚 I'm currently learning secure social authentication features and exploring GitHub Actions.<br>- ⚡ In my free time I watch cinematic classics like <em>Inception</em> and read literature by Jose Rizal.</p>
+<div align="center">
+  <h2>Hello! I'm Jester I. Pariño</h2>
+  <p>Student Developer from Baguio City, Philippines 🌲</p>
+</div>
 
+<br>
+
+<p align="left">
+  - 🔭 I’m currently developing my <strong>Capstone Project</strong> utilizing the Laravel framework.<br>
+  - 📚 I'm actively learning secure social authentication features and exploring GitHub Actions for continuous integration.<br>
+  - 🛠️ <strong>My toolkit:</strong> PHP, Laravel, MySQL, JavaScript, HTML, CSS, & Git.<br>
+  - ⚡ <strong>Fun fact:</strong> In my free time, I love watching cinematic masterpieces like <em>Inception</em> and reading literature by Jose Rizal.<br>
+  - 📫 <strong>Reach me at:</strong> <a href="mailto:parinojester@gmail.com">parinojester@gmail.com</a>
+</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
