@@ -14,14 +14,23 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
 <div align="center">
   <h2>Hello! I'm Jester I. Pariño</h2>
   <p>Student Developer from Baguio City, Philippines 🌲</p>
+  
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jester-parino-859228290"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="YOUR_YOUTUBE_LINK"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="YOUR_TWITTER_LINK"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+</div>
+
+###
 
 <br>
 
@@ -66,10 +75,3 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jester-parino-859228290"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="YOUR_YOUTUBE_LINK"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="YOUR_TWITTER_LINK"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
-</div>
-
-###
