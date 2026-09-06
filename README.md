@@ -23,7 +23,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="center > About Me
 
 - 🔭 **Currently Building:** A web-based Capstone Project using **Laravel** framework.
 - 📚 **Learning:** Secure social auth features (OAuth 2.0) & CI/CD with **GitHub Actions**.
