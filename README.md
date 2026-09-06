@@ -42,15 +42,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRMGZ04qA84dFKB/giphy.gif" width="28"> GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesrino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesrino&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
+### <img src="https://media.giphy.com/media/iY8CRMGZ04qA84dFKB/giphy.gif" width="28">  Activity & Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesrino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
