@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:3A7BD5&height=200&section=header&text=Jester%20I.%20Pari%C3%B1o&fontSize=50&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
-
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
-
   <br><br>
-
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Jester+I.+Pari%C3%B1o!;Student+Developer+from+Baguio+City+%F0%9F%8D%B2;Building+with+Laravel+%26+PHP+%F0%9F%9A%80;Exploring+OAuth+2.0+%26+CI%2FCD+%E2%9A%A1" alt="Typing SVG" />
   </a>
