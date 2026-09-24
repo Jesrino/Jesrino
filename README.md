@@ -64,7 +64,7 @@
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Jesrino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesrino&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
 <br>
